@@ -13,7 +13,7 @@ Lately going all-in on **AI Agent engineering**: spec-driven development, agent 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Open Source Contributions
 
@@ -32,10 +32,6 @@ Occasional bugfix contributor to Tencent's TDesign component library:·
 ## Learning in Public
 
 - [**zn-learn**](https://github.com/Zn-Dk/zn-learn) — my long-running engineering notebook: runnable demos, notes and retros from frontend fundamentals to full-stack practice (JavaScript / TypeScript / React / Vue / NestJS / databases / AI). 学习记录仓库，持续更新。
-
-## Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zn-Dk&layout=compact&langs_count=8&hide=html,css,less)
 
 ## Contact
 
