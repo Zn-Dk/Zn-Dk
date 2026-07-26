@@ -15,19 +15,18 @@ Lately going all-in on **AI Agent engineering**: spec-driven development, agent 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Open Source Contributions
-
-Occasional bugfix contributor to Tencent's TDesign component library:· 
-- [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) 
-- [tdesign-common](https://github.com/Tencent/tdesign-common)
-
 ## Agent Engineering
 
 - [**sdd-workflow**](https://github.com/Zn-Dk/sdd-workflow) — SDD: a spec-driven development workflow for AI-assisted coding
 - [**skill-design-guide**](https://github.com/Zn-Dk/skill-design-guide) — design paradigms and audit guidelines for Agent Skills
 - [**spec-writing**](https://github.com/Zn-Dk/spec-writing) — an Agent Skill that generates standardized SPEC docs for project modules
 - [**okr-writing**](https://github.com/Zn-Dk/okr-writing) — an Agent Skill built on a YAML DSL that helps produce OKRs and self-reviews
-- [**my-weather-mcp**](https://github.com/Zn-Dk/my-weather-mcp) — a weather MCP server
+
+## Open Source Contributions
+
+Occasional bugfix contributor to Tencent's TDesign component library:· 
+- [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) 
+- [tdesign-common](https://github.com/Tencent/tdesign-common)
 
 ## Learning in Public
 
