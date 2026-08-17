@@ -1,6 +1,6 @@
 # Hi, I'm Zn 👋
 
-**白天搬砖代码看不见，晚上公开学习。**
+**白天搬砖，晚上研究。**
 By day I write code I can't show you. By night, I learn in public.
 
 Frontend-leaning full-stack engineer with 5 years of experience (React / Next.js / NestJS / PostgreSQL).
