@@ -2,7 +2,7 @@
 
 **Frontend-leaning full-stack engineer · AI Agent builder**
 
-By day production code, by night building in public — agent skills, spec-driven workflows, MCP tooling. 白天搬砖,晚上研究。
+By day production code, by night building in public — agent skills, spec-driven workflows, MCP tooling. 白天搬砖，晚上研究。
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -17,7 +17,7 @@ By day production code, by night building in public — agent skills, spec-drive
 
 ## Agent Engineering
 
-- [**sdd-workflow**](https://github.com/Zn-Dk/sdd-workflow) — SDD:规范驱动开发工作流。
+- [**sdd-workflow**](https://github.com/Zn-Dk/sdd-workflow) — SDD：规范驱动开发工作流。
 - [**skill-design-guide**](https://github.com/Zn-Dk/skill-design-guide) — Agent Skill 设计范式与审计指南。
 - [**spec-writing**](https://github.com/Zn-Dk/spec-writing) — 为项目模块生成标准化 SPEC 说明文档的 Agent Skill。
 - [**okr-writing**](https://github.com/Zn-Dk/okr-writing) — 基于 YAML DSL 协助产出 OKR 与个人自评的 Agent Skill。
@@ -26,7 +26,7 @@ By day production code, by night building in public — agent skills, spec-drive
 
 - [**dsh-plugin-creator**](https://github.com/Zn-Dk/dsh-plugin-creator) — an Agent Skill to scaffold and iterate DSH out-of-tree Web plugins.
 - [**dsh-session-repair**](https://github.com/Zn-Dk/dsh-session-repair) — DSH Web 会话诊断、可信备份与一键安全修复插件。
-- [**dsh-mnemon-gc**](https://github.com/Zn-Dk/dsh-mnemon-gc) — dsh-mnemon GC 治理插件:冲突驱动的正确性纠错,自动巡检报告。
+- [**dsh-mnemon-gc**](https://github.com/Zn-Dk/dsh-mnemon-gc) — dsh-mnemon GC 治理插件：冲突驱动的正确性纠错，自动巡检报告。
 
 ## Open Source Contributions
 
@@ -36,7 +36,7 @@ Occasional bugfix contributor to Tencent's TDesign component library:
 
 ## Learning in Public
 
-- [**zn-learn**](https://github.com/Zn-Dk/zn-learn) — 持续更新的个人技术学习仓库:从前端基础到全栈工程实践的可运行示例、问题复盘与技术笔记。
+- [**zn-learn**](https://github.com/Zn-Dk/zn-learn) — 持续更新的个人技术学习仓库：从前端基础到全栈工程实践的可运行示例、问题复盘与技术笔记。
 
 ## Contact
 
