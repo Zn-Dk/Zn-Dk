@@ -1,10 +1,8 @@
 # Hi, I'm Zn 👋
 
-**白天搬砖，晚上研究。**
-By day I write code I can't show you. By night, I learn in public.
+**Frontend-leaning full-stack engineer · AI Agent builder**
 
-Frontend-leaning full-stack engineer with 5 years of experience (React / Next.js / NestJS / PostgreSQL).
-Lately going all-in on **AI Agent engineering**: spec-driven development, agent skills, workflow engines, and the MCP ecosystem.
+By day production code, by night building in public — agent skills, spec-driven workflows, MCP tooling. 白天搬砖,晚上研究。
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -14,31 +12,31 @@ Lately going all-in on **AI Agent engineering**: spec-driven development, agent 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0F172A?style=flat-square)
 
 ## Agent Engineering
 
-- [**sdd-workflow**](https://github.com/Zn-Dk/sdd-workflow) — SDD: a spec-driven development workflow for AI-assisted coding
-- [**skill-design-guide**](https://github.com/Zn-Dk/skill-design-guide) — design paradigms and audit guidelines for Agent Skills
-- [**spec-writing**](https://github.com/Zn-Dk/spec-writing) — an Agent Skill that generates standardized SPEC docs for project modules
-- [**okr-writing**](https://github.com/Zn-Dk/okr-writing) — an Agent Skill built on a YAML DSL that helps produce OKRs and self-reviews
+- [**sdd-workflow**](https://github.com/Zn-Dk/sdd-workflow) — SDD:规范驱动开发工作流。
+- [**skill-design-guide**](https://github.com/Zn-Dk/skill-design-guide) — Agent Skill 设计范式与审计指南。
+- [**spec-writing**](https://github.com/Zn-Dk/spec-writing) — 为项目模块生成标准化 SPEC 说明文档的 Agent Skill。
+- [**okr-writing**](https://github.com/Zn-Dk/okr-writing) — 基于 YAML DSL 协助产出 OKR 与个人自评的 Agent Skill。
 
-## DSH Plugins & Skills
+### DSH Plugins & Skills
 
-Plugins and Agent Skills I've built for the DeepSeek Harness (DSH) ecosystem:
-
-- [**dsh-plugin-creator**](https://github.com/Zn-Dk/dsh-plugin-creator) — an Agent Skill to scaffold and iterate DSH out-of-tree Web plugins
-- [**dsh-session-repair**](https://github.com/Zn-Dk/dsh-session-repair) — DSH Web 会话诊断、可信备份与一键安全修复插件
-- [**dsh-mnemon-gc**](https://github.com/Zn-Dk/dsh-mnemon-gc) — dsh-mnemon GC 治理插件:冲突驱动的正确性纠错,自动巡检报告
+- [**dsh-plugin-creator**](https://github.com/Zn-Dk/dsh-plugin-creator) — an Agent Skill to scaffold and iterate DSH out-of-tree Web plugins.
+- [**dsh-session-repair**](https://github.com/Zn-Dk/dsh-session-repair) — DSH Web 会话诊断、可信备份与一键安全修复插件。
+- [**dsh-mnemon-gc**](https://github.com/Zn-Dk/dsh-mnemon-gc) — dsh-mnemon GC 治理插件:冲突驱动的正确性纠错,自动巡检报告。
 
 ## Open Source Contributions
 
-Occasional bugfix contributor to Tencent's TDesign component library:· 
-- [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) 
-- [tdesign-common](https://github.com/Tencent/tdesign-common)
+Occasional bugfix contributor to Tencent's TDesign component library:
+- [**tdesign-vue-next**](https://github.com/Tencent/tdesign-vue-next)
+- [**tdesign-common**](https://github.com/Tencent/tdesign-common)
 
 ## Learning in Public
 
-- [**zn-learn**](https://github.com/Zn-Dk/zn-learn) — my long-running engineering notebook: runnable demos, notes and retros from frontend fundamentals to full-stack practice (JavaScript / TypeScript / React / Vue / NestJS / databases / AI). 学习记录仓库，持续更新。
+- [**zn-learn**](https://github.com/Zn-Dk/zn-learn) — 持续更新的个人技术学习仓库:从前端基础到全栈工程实践的可运行示例、问题复盘与技术笔记。
 
 ## Contact
 
