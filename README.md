@@ -22,6 +22,14 @@ Lately going all-in on **AI Agent engineering**: spec-driven development, agent 
 - [**spec-writing**](https://github.com/Zn-Dk/spec-writing) — an Agent Skill that generates standardized SPEC docs for project modules
 - [**okr-writing**](https://github.com/Zn-Dk/okr-writing) — an Agent Skill built on a YAML DSL that helps produce OKRs and self-reviews
 
+## DSH Plugins & Skills
+
+Plugins and Agent Skills I've built for the DeepSeek Harness (DSH) ecosystem:
+
+- [**dsh-plugin-creator**](https://github.com/Zn-Dk/dsh-plugin-creator) — an Agent Skill to scaffold and iterate DSH out-of-tree Web plugins
+- [**dsh-session-repair**](https://github.com/Zn-Dk/dsh-session-repair) — DSH Web 会话诊断、可信备份与一键安全修复插件
+- [**dsh-mnemon-gc**](https://github.com/Zn-Dk/dsh-mnemon-gc) — dsh-mnemon GC 治理插件:冲突驱动的正确性纠错,自动巡检报告
+
 ## Open Source Contributions
 
 Occasional bugfix contributor to Tencent's TDesign component library:· 
